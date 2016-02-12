@@ -1,7 +1,7 @@
 # This is an auto generated Dockerfile for ros2:ros2
 # generated from templates/docker_images/create_ros2_image.Dockerfile.em
 # generated on 2015-07-29 16:41:30 -0700
-FROM ubuntu:trusty
+FROM osrf/ubuntu_armhf:trusty
 MAINTAINER Nate Koenig nkoenig@osrfoundation.org
 
 # ROS1 Repo Setup ##############################################################

@@ -1,7 +1,7 @@
 # This is an auto generated Dockerfile for ros:jade-ros-core
 # generated from templates/docker_images/create_ros_core_image.Dockerfile.em
 # generated on 2015-06-10 19:52:57 -0700
-FROM ubuntu:trusty
+FROM osrf/ubuntu_armhf:trusty
 MAINTAINER Dirk Thomas dthomas+buildfarm@osrfoundation.org
 
 # setup environment

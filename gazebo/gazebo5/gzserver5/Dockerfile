@@ -1,7 +1,7 @@
 # This is an auto generated Dockerfile for gazebo:gzserver5
 # generated from templates/docker_images/create_gzserver_image.Dockerfile.em
 # generated on 2016-02-06 15:53:58 +0000
-FROM ubuntu:trusty
+FROM osrf/ubuntu_armhf:trusty
 MAINTAINER Nate Koenig nkoenig@osrfoundation.org
 
 # setup keys
